@@ -24,10 +24,7 @@
 
 ## Subject Overview
 
-The **Push Swap** project consists of two programs:
-
-1. **checker**: Validates a sequence of stack operations to determine if they result in a sorted stack.
-2. **push_swap**: Generates the optimal sequence of operations to sort a stack of integers, minimizing the operation count.
+**push_swap**: Generates the optimal sequence of operations to sort a stack of integers, minimizing the operation count.
 
 ### Key Features
 
@@ -81,8 +78,6 @@ make
 
 # Output: A list of stack operations to sort the input
 
-# Run checker to validate a sequence of operations
-echo -e "pb\nra\nsa\npa" | ./checker 3 2 1 6 5 8
 ```
 
 ---
